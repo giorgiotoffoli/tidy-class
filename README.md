@@ -6,3 +6,8 @@ Tidy Class is an open-source webapp utilized by Hirschi High School's Key Club, 
 Users are able to mark a class, hallway, or area around our campus as "dirty," which will help us save time to figure out which area on our campus we should be focusing on.
 
 The app is still in beta, and is meant to be used only by Hirschi High School students.
+
+## Overview
+Main campus interface
+
+![Screenshot 2024-02-01 at 10-38-49 Tidy Class](https://github.com/giorgiotoffoli/tidy-class/assets/78314850/c45d6122-6272-4b1a-9c92-00d7d0b9e346)
