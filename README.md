@@ -1,4 +1,4 @@
-![tidy_class_01](https://github.com/giorgiotoffoli/tidy-class/assets/78314850/b2e226ec-3169-4fbe-9059-fa98b44c8908)
+![tidy_class_01](https://github.com/giorgiotoffoli/tidy-class/assets/78314850/4827919b-dda4-4dbe-a3d6-ed3972aecd78)
 
 ## Tidy Class - A clean-up app for _[Hirschi Key Club](https://giorgiotoffoli.github.io/hirschi-keyclub/)_
 
